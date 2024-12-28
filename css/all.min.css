@@ -1,0 +1,54 @@
+
+@media  (max-width:576px) {
+   .contact input{
+    margin-bottom: 20px;
+   }
+.contact .container-fluid .contact-content h2 {
+    font-size: 35px; 
+    
+    /* font-weight: 400; */
+ 
+   }
+   
+
+
+
+
+}
+@media (min-width:576px) {
+    
+
+}
+@media (min-width:768px) {
+    
+
+
+}
+@media (min-width:992px) {
+   
+
+
+}
+@media (min-width:1200px) {
+    
+
+}
+@media (min-width:1400px) {
+   
+
+
+}
+
+/* media query items less than 576px */
+
+
+
+
+
+@media  (max-width:768px) {
+    
+    
+    
+}
+
+
